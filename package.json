@@ -1,0 +1,27 @@
+{
+  "name": "learninng-webpack",
+  "version": "1.0.0",
+  "description": "To learn webpack",
+  "main": "index.js",
+  "scripts": {
+    "build":"webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isfar-uddin/webpack-configuratioin.git"
+  },
+  "keywords": [
+    "webpack-config\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ccustom-webpack-config"
+  ],
+  "author": "Isfar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isfar-uddin/webpack-configuratioin/issues"
+  },
+  "homepage": "https://github.com/isfar-uddin/webpack-configuratioin#readme",
+  "dependencies": {
+    "webpack": "^4.8.0",
+    "webpack-cli": "^2.1.3",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
